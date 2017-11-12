@@ -1,0 +1,9 @@
+﻿  Source5.c
+c:\git\practica\practica\source5.c(15): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\git\practica\practica\source5.c(10): warning C4101: j: неиспользованная локальная переменная
+  Source4.c
+c:\git\practica\practica\source4.c(15): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\git\practica\practica\source4.c(10): warning C4101: j: неиспользованная локальная переменная
+  Создание кода...
+  practica.vcxproj -> C:\git\practica\Debug\practica.exe
+  practica.vcxproj -> C:\git\practica\Debug\practica.pdb (Full PDB)
