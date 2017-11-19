@@ -30,7 +30,19 @@
     <ClCompile Include="Source4.c">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
-    <ClCompile Include="Source5.c">
+    <ClCompile Include="Source19_11_17_6.c">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="Source19_11_17_5.c">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="Source19_11_17_7.c">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="Source19_11_17_8.c">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="Source19_11_17_9.c">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
   </ItemGroup>

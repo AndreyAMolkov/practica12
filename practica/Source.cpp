@@ -4,7 +4,7 @@
 
 
 
-int main1()
+int main8()
 {
 	clock_t now;
 	char ch;

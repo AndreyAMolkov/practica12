@@ -7,7 +7,7 @@
 int main4()
 {
 
-	int i, j;
+	int i;
 	char buf[SIZE];
 	int count[N] = {0};
 	int max = 0;

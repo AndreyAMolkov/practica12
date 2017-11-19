@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<time.h>
 #include<stdlib.h>
-#define SIZE 1000000000
+#define SIZE 100
 
 
 int main3()

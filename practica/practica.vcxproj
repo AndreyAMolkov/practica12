@@ -144,10 +144,14 @@
   <ItemGroup>
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="Source1.c" />
+    <ClCompile Include="Source19_11_17_6.c" />
+    <ClCompile Include="Source19_11_17_7.c" />
+    <ClCompile Include="Source19_11_17_8.c" />
+    <ClCompile Include="Source19_11_17_9.c" />
     <ClCompile Include="Source2.c" />
     <ClCompile Include="Source3.c" />
     <ClCompile Include="Source4.c" />
-    <ClCompile Include="Source5.c" />
+    <ClCompile Include="Source19_11_17_5.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
