@@ -1,0 +1,4 @@
+﻿  3.c
+c:\git\1\003_12_17\3.c(9): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
+  003_12_17.vcxproj -> C:\git\1\Debug\003_12_17.exe
+  003_12_17.vcxproj -> C:\git\1\Debug\003_12_17.pdb (Full PDB)

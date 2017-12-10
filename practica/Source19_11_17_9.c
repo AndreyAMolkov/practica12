@@ -6,7 +6,7 @@
 #include<stdio.h>
  #include<stdlib.h>
 #include<time.h>
-#include "task.h"
+//#include "task.h"
 
 
 /*.h
@@ -43,8 +43,8 @@ for (j=0;j<M;j++)
 
 
 */
-int matr[N][M];
-int main()
+//int matr[N][M];
+int main9()
 {
 	srand(time(0));
 	gen();

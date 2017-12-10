@@ -1,8 +1,0 @@
-﻿  Source19_11_17_9.c
-c:\git\practica\practica\source19_11_17_9.c(24): warning C4101: digit: неиспользованная локальная переменная
-  Source19_11_17_8.c
-c:\git\practica\practica\source19_11_17_8.c(20): warning C4013: str2int: нет определения; предполагается "extern" с возвратом типа "int"
-c:\git\practica\practica\source19_11_17_8.c(19): warning C4101: digit: неиспользованная локальная переменная
-  Создание кода...
-  practica.vcxproj -> C:\git\practica\Debug\practica.exe
-  practica.vcxproj -> C:\git\practica\Debug\practica.pdb (Full PDB)

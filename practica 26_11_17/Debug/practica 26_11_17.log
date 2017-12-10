@@ -1,0 +1,4 @@
+﻿  6.c
+c:\git\с-lab-3\1\practica 26_11_17\6.c(33): warning C4013: getPrimen5: нет определения; предполагается "extern" с возвратом типа "int"
+  practica 26_11_17.vcxproj -> C:\git\С-lab-3\1\Debug\practica 26_11_17.exe
+  practica 26_11_17.vcxproj -> C:\git\С-lab-3\1\Debug\practica 26_11_17.pdb (Full PDB)
