@@ -1,0 +1,6 @@
+
+char* int2str(char *buf, unsigned int value)// - функция, переводящая число в строку
+{
+
+	//return
+}

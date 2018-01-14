@@ -1,0 +1,7 @@
+﻿  2.c
+c:\git\practica\pract 14_01_18\1\2.c(15): warning C4477: "printf": в строке форматирования "%llu" требуется аргумент типа "unsigned __int64", но вариативный аргумент "1" имеет тип "ull"
+  c:\git\practica\pract 14_01_18\1\2.c(15): note: рекомендуется использовать "%lu" в строке форматирования
+c:\git\practica\pract 14_01_18\1\2.c(15): warning C4477: "printf": в строке форматирования "%llu" требуется аргумент типа "unsigned __int64", но вариативный аргумент "2" имеет тип "ull"
+  c:\git\practica\pract 14_01_18\1\2.c(15): note: рекомендуется использовать "%lu" в строке форматирования
+  1.vcxproj -> C:\git\practica\pract 14_01_18\Debug\1.exe
+  1.vcxproj -> C:\git\practica\pract 14_01_18\Debug\1.pdb (Full PDB)

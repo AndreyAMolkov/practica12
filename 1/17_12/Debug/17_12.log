@@ -1,0 +1,6 @@
+﻿  1.c
+c:\git\practica\1\17_12\1.c(33): warning C4047: =: "int" отличается по уровням косвенного обращения от "int *"
+c:\git\practica\1\17_12\1.c(34): warning C4047: =: "int" отличается по уровням косвенного обращения от "int *"
+c:\git\practica\1\17_12\1.c(52): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  17_12.vcxproj -> C:\git\practica\1\Debug\17_12.exe
+  17_12.vcxproj -> C:\git\practica\1\Debug\17_12.pdb (Full PDB)

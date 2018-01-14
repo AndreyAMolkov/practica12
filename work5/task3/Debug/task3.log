@@ -1,0 +1,10 @@
+﻿  main3.c
+c:\git\practica\work5\task3\main3.c(11): warning C4013: int2str: нет определения; предполагается "extern" с возвратом типа "int"
+c:\git\practica\work5\task3\main3.c(13): warning C4047: функция: "int" отличается по уровням косвенного обращения от "char [2]"
+c:\git\practica\work5\task3\main3.c(13): warning C4024: putchar: различные типы для формального и фактического параметров 1
+c:\git\practica\work5\task3\main3.c(9): warning C4477: "scanf": в строке форматирования "%u" требуется аргумент типа "unsigned int *", но вариативный аргумент "1" имеет тип "unsigned int"
+c:\git\practica\work5\task3\main3.c(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note:  см. объявление "scanf"
+c:\git\practica\work5\task3\main3.c(11): warning C4700: использована неинициализированная локальная переменная "buf"
+  task3.vcxproj -> C:\git\practica\work5\Debug\task3.exe
+  task3.vcxproj -> C:\git\practica\work5\Debug\task3.pdb (Full PDB)
