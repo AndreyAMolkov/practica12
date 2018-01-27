@@ -1,0 +1,13 @@
+﻿  main.c
+  countries.c
+c:\git\practica\21_01_18\2\countries.c(6): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
+c:\git\practica\21_01_18\2\countries.c(15): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+c:\git\practica\21_01_18\2\countries.c(17): warning C4013: atoi: нет определения; предполагается "extern" с возвратом типа "int"
+c:\git\practica\21_01_18\2\countries.c(32): warning C4133: =: несовместимые типы - из "Country *" в "TCountry *"
+c:\git\practica\21_01_18\2\countries.c(33): warning C4133: =: несовместимые типы - из "TCountry *" в "Country *"
+c:\git\practica\21_01_18\2\countries.c(41): warning C4013: strstr: нет определения; предполагается "extern" с возвратом типа "int"
+c:\git\practica\21_01_18\2\countries.c(43): warning C4133: =: несовместимые типы - из "Country *" в "TCountry *"
+c:\git\practica\21_01_18\2\countries.c(114): warning C4133: =: несовместимые типы - из "Country *" в "TCountry *"
+  Создание кода...
+  2.vcxproj -> C:\git\practica\21_01_18\Debug\2.exe
+  2.vcxproj -> C:\git\practica\21_01_18\Debug\2.pdb (Full PDB)

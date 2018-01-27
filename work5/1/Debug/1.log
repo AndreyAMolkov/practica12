@@ -1,6 +1,2 @@
-﻿  task1.c
-  main1.c
-c:\git\practica\work5\1\main1.c(10): warning C4013: drawFractal: нет определения; предполагается "extern" с возвратом типа "int"
-  Создание кода...
-MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
 C:\git\practica\work5\Debug\1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
