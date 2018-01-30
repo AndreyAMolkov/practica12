@@ -1,0 +1,4 @@
+﻿  main1.c
+c:\git\28_01_18\1\main1.c(64): warning C4715: placeQueen: значение возвращается не при всех путях выполнения
+  1.vcxproj -> C:\git\28_01_18\Debug\1.exe
+  1.vcxproj -> C:\git\28_01_18\Debug\1.pdb (Full PDB)
